@@ -50,7 +50,7 @@ function updateClock() {
 
     todoInput.value = ''; // Clear input
   }
-};
+
 
   
   // Initialize clock update every second
